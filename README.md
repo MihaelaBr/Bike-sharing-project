@@ -7,4 +7,5 @@ Historical trip data was downloaded for the period of 1 year, one file for each 
 
 ## Results
 After preparing and cleaning the data I ingested it into Tableau for further analysis and visualisations preparation. The results are a data quality checks and cleaning process in SQL, published in this GitHub repo for the project, along with a 1000 rows sample in CSV format for the raw and cleaned data respectively and a [Tableau Public Dashboard](https://public.tableau.com/views/CyclisticCaseStudy_17210605199230/CyclisticCaseStudy?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) with two separate pages for Stations Analysis and Time-series Analysis.
+
 ![Tableau Dashboard Cyclistic Case Study](Cyclistic Case Study Page 1.png "Cyclistic Case Study")
